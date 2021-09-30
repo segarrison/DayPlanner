@@ -1,0 +1,2 @@
+# DayPlanner
+Simplified day planner
