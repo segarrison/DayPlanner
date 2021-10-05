@@ -18,4 +18,4 @@ Please visit [github pages for repo](https://segarrison.github.io/DayPlanner/) t
 This site was built using:
 *Bootstrap
 *Jquery
-\*Moment.js
+*Moment.js
